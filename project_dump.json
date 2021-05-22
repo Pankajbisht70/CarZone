@@ -1,0 +1,884 @@
+[
+{
+    "model": "auth.user",
+    "fields": {
+        "password": "pbkdf2_sha256$180000$rNM5ryv5n0bJ$3tw4VZE4lUn/1dg3bcHratMczUqokuHEwIiaolhmGvg=",
+        "last_login": "2021-05-22T07:05:01.100Z",
+        "is_superuser": true,
+        "username": "djangoadmin",
+        "first_name": "",
+        "last_name": "",
+        "email": "pankajbisht70@gmail.com",
+        "is_staff": true,
+        "is_active": true,
+        "date_joined": "2021-05-14T12:45:42.745Z",
+        "groups": [],
+        "user_permissions": []
+    }
+},
+{
+    "model": "auth.user",
+    "fields": {
+        "password": "pbkdf2_sha256$180000$zhEqQ7eQqv02$FtroObU24GNTC39HqYGZq+byUtLicwzU4UkYN6nn4Qc=",
+        "last_login": "2021-05-21T13:53:39.393Z",
+        "is_superuser": false,
+        "username": "deepakbisht",
+        "first_name": "deepak",
+        "last_name": "bisht",
+        "email": "deepak@gmail.com",
+        "is_staff": false,
+        "is_active": true,
+        "date_joined": "2021-05-21T13:53:38.729Z",
+        "groups": [],
+        "user_permissions": []
+    }
+},
+{
+    "model": "auth.user",
+    "fields": {
+        "password": "pbkdf2_sha256$180000$JkhkRunie367$PAEIR7AAUF0ozaDxdU3MQCwjp7qjQqCj2yaxAOb5S2c=",
+        "last_login": "2021-05-21T14:02:03.780Z",
+        "is_superuser": false,
+        "username": "pankajbisht",
+        "first_name": "Pankaj",
+        "last_name": "bisht",
+        "email": "pbisht97@gmail.com",
+        "is_staff": false,
+        "is_active": true,
+        "date_joined": "2021-05-21T14:02:03.519Z",
+        "groups": [],
+        "user_permissions": []
+    }
+},
+{
+    "model": "auth.user",
+    "fields": {
+        "password": "pbkdf2_sha256$180000$q7W9PmGnMa0l$QA9yB3/t3Kcxhixhe+l7EgG9c3FPn1OTsvUsvJ5NVVM=",
+        "last_login": "2021-05-21T17:19:39.932Z",
+        "is_superuser": false,
+        "username": "pankajbisht70",
+        "first_name": "Pankaj",
+        "last_name": "bisht",
+        "email": "pankajbisht@gmail.com",
+        "is_staff": false,
+        "is_active": true,
+        "date_joined": "2021-05-21T14:24:10.526Z",
+        "groups": [],
+        "user_permissions": []
+    }
+},
+{
+    "model": "auth.user",
+    "fields": {
+        "password": "pbkdf2_sha256$180000$WkszKCQE3m9A$7c+inlazoalp8MyrFAFlMFI9PbEU/6MMSkZ1nGUBwIM=",
+        "last_login": "2021-05-22T06:08:49.086Z",
+        "is_superuser": false,
+        "username": "testuser",
+        "first_name": "test",
+        "last_name": "user",
+        "email": "test@gmail.com",
+        "is_staff": false,
+        "is_active": true,
+        "date_joined": "2021-05-21T14:45:20.207Z",
+        "groups": [],
+        "user_permissions": []
+    }
+},
+{
+    "model": "auth.user",
+    "fields": {
+        "password": "pbkdf2_sha256$180000$7OT3NuylrUEV$0ppLisRgNKAMf4gFa+zlmsR3h39jBgCV8FamCJaoZWE=",
+        "last_login": "2021-05-22T05:07:34.397Z",
+        "is_superuser": false,
+        "username": "jp",
+        "first_name": "jay",
+        "last_name": "prakash",
+        "email": "jp@gmail.cpm",
+        "is_staff": false,
+        "is_active": true,
+        "date_joined": "2021-05-21T16:29:18.968Z",
+        "groups": [],
+        "user_permissions": []
+    }
+},
+{
+    "model": "auth.user",
+    "fields": {
+        "password": "!MrgnH6bzalxPl8otHiPCAOIGSXDM6b5fwMYzIlwX",
+        "last_login": "2021-05-21T18:05:09.412Z",
+        "is_superuser": false,
+        "username": "pankaj",
+        "first_name": "Pankaj",
+        "last_name": "Bisht",
+        "email": "",
+        "is_staff": false,
+        "is_active": true,
+        "date_joined": "2021-05-21T18:04:46.827Z",
+        "groups": [],
+        "user_permissions": []
+    }
+},
+{
+    "model": "auth.user",
+    "fields": {
+        "password": "!oc185Ff5xsEVdcqDXvBTGVfqWqfo9LNc8JTjmN9q",
+        "last_login": "2021-05-21T18:26:46.080Z",
+        "is_superuser": false,
+        "username": "pankaj6",
+        "first_name": "Pankaj",
+        "last_name": "bisht",
+        "email": "",
+        "is_staff": false,
+        "is_active": true,
+        "date_joined": "2021-05-21T18:26:45.742Z",
+        "groups": [],
+        "user_permissions": []
+    }
+},
+{
+    "model": "sessions.session",
+    "pk": "wcsrcic2zuib2pmb6fro8u741eeexafw",
+    "fields": {
+        "session_data": "MDMyNTYxZDAyODlhMTYzNzMzZmI0OTJiOTI5YzA0N2RiNDQ3NzVlMTp7Il9hdXRoX3VzZXJfaWQiOiIxIiwiX2F1dGhfdXNlcl9iYWNrZW5kIjoiZGphbmdvLmNvbnRyaWIuYXV0aC5iYWNrZW5kcy5Nb2RlbEJhY2tlbmQiLCJfYXV0aF91c2VyX2hhc2giOiIzZjY3YjZkNGNhNzEyYzJmYThkYTZmMjc5YmQ2YTg4OGI4ODkzY2YxIn0=",
+        "expire_date": "2021-06-05T07:05:01.103Z"
+    }
+},
+{
+    "model": "Pages.team",
+    "pk": 1,
+    "fields": {
+        "first_name": "Martin",
+        "last_name": "Smith",
+        "designation": "Web Developer",
+        "photo": "photos/21/05/14/avatar-1.jpg",
+        "facebook_link": "http://facebook.ccom",
+        "twitter_link": "http://twitter.com",
+        "created_date": "2021-05-14T13:55:54.852Z"
+    }
+},
+{
+    "model": "Pages.team",
+    "pk": 2,
+    "fields": {
+        "first_name": "Stone",
+        "last_name": "Carolyn",
+        "designation": "CTO",
+        "photo": "photos/21/05/14/avatar-3.jpg",
+        "facebook_link": "http://facebook.com",
+        "twitter_link": "http://twitter.com",
+        "created_date": "2021-05-14T15:08:24.771Z"
+    }
+},
+{
+    "model": "Pages.team",
+    "pk": 3,
+    "fields": {
+        "first_name": "Brandon",
+        "last_name": "Miller",
+        "designation": "Manager",
+        "photo": "photos/21/05/14/avatar-11.jpg",
+        "facebook_link": "http://facebook.ccom",
+        "twitter_link": "http://twitter.com",
+        "created_date": "2021-05-14T15:09:35.263Z"
+    }
+},
+{
+    "model": "Pages.team",
+    "pk": 4,
+    "fields": {
+        "first_name": "Michelle",
+        "last_name": "Nelson",
+        "designation": "Support Manager",
+        "photo": "photos/21/05/14/avatar-2.jpg",
+        "facebook_link": "http://facebook.ccom",
+        "twitter_link": "http://twitter.com",
+        "created_date": "2021-05-14T15:10:05.239Z"
+    }
+},
+{
+    "model": "cars.car",
+    "pk": 1,
+    "fields": {
+        "car_title": "2017 Ferrari 488 GTB",
+        "state": "HR",
+        "city": "Gurgaon",
+        "color": "White",
+        "model": "488 GTB",
+        "year": 2017,
+        "condition": "Used",
+        "price": 400000,
+        "description": "<p>Ferrari 488</p>\r\n\r\n<p>Ferrari 488 GTB is the top model in the 488 lineup and the price of 488 top model is&nbsp;<strong>\u20b9 3.68 Crore</strong>.It returns a certified mileage of 8.77 kmpl. This GTB variant comes with an engine putting out 660 bhp @ 8000 rpm and 760 Nm @ 3000 rpm of max power and max torque respectively.</p>\r\n\r\n<p>Price:&nbsp;\u20b9 3.68 Crore</p>\r\n\r\n<p>Seating Capacity:&nbsp;2 Seater</p>\r\n\r\n<p>Transmission:&nbsp;Automatic</p>",
+        "car_photo": "photos/21/05/15/1902537082.jpg",
+        "car_photo_1": "photos/21/05/15/1902536891.jpg",
+        "car_photo_2": "photos/21/05/15/1902536917.jpg",
+        "car_photo_3": "photos/21/05/15/1902537043.jpg",
+        "car_photo_4": "photos/21/05/15/1902537077.jpg",
+        "features": "Cruise Control,Airbags,ParkAssist,Power Steering,Reversing Camera,Direct Fuel Injection,Auto Start/Stop,Bluetooth Handset",
+        "body_style": "Sport",
+        "engine": "660 bhp",
+        "transmission": "Automatic",
+        "interior": "Grey",
+        "miles": 1000,
+        "door": "2",
+        "passengers": 2,
+        "vin_no": "WPPSDKJSDJSHDJS",
+        "milage": 20,
+        "fuel_type": "Petrol",
+        "no_of_owner": "1",
+        "is_featured": true,
+        "created_date": "2021-05-15T18:06:52Z"
+    }
+},
+{
+    "model": "cars.car",
+    "pk": 2,
+    "fields": {
+        "car_title": "2017 Ford Edge",
+        "state": "MH",
+        "city": "Mumbai",
+        "color": "Black",
+        "model": "2021",
+        "year": 2021,
+        "condition": "Used",
+        "price": 5000000,
+        "description": "<p>Ford Edge</p>\r\n\r\n<p>The&nbsp;<strong>2021 Ford Edge</strong>&nbsp;has two powertrain choices. The&nbsp;<strong>Edge</strong>&nbsp;SE, SEL, ST-Line, and Titanium models are equipped with a 250-horsepower turbocharged four-cylinder engine, an eight-speed automatic transmission, and front-wheel drive; all-wheel drive is optional.07-May-2021</p>\r\n\r\n<p>Critics&#39; Rating:&nbsp;7.8/10</p>\r\n\r\n<p>Safety:&nbsp;9.6/10</p>\r\n\r\n<p>Interior:&nbsp;7.1/10</p>",
+        "car_photo": "photos/21/05/15/1901478607.jpg",
+        "car_photo_1": "photos/21/05/15/1901478618.jpg",
+        "car_photo_2": "photos/21/05/15/1901478646.jpg",
+        "car_photo_3": "photos/21/05/15/1901478672.jpg",
+        "car_photo_4": "photos/21/05/15/1901478687.jpg",
+        "features": "Cruise Control,Audio Interface,Airbags,ParkAssist,Reversing Camera,Auto Start/Stop,Wind Deflector,Bluetooth Handset",
+        "body_style": "SUV",
+        "engine": "860 bhp",
+        "transmission": "Automatic",
+        "interior": "White",
+        "miles": 2000,
+        "door": "4",
+        "passengers": 7,
+        "vin_no": "JKSHSDSDSJSK",
+        "milage": 8,
+        "fuel_type": "Petrol",
+        "no_of_owner": "2",
+        "is_featured": true,
+        "created_date": "2021-05-15T18:33:27Z"
+    }
+},
+{
+    "model": "cars.car",
+    "pk": 3,
+    "fields": {
+        "car_title": "2018 Toyota 4Runner",
+        "state": "KA",
+        "city": "Banglore",
+        "color": "Silver",
+        "model": "2018YY",
+        "year": 2018,
+        "condition": "Used",
+        "price": 840000,
+        "description": "<p>The 2018 Toyota 4Runner ranks toward the bottom of the midsize SUV class. It has a strong engine, excellent off-road performance, and a good predicted reliability rating, but that&#39;s not enough to offset the SUV&rsquo;s mediocre safety scores, low-grade interior, and so-so handling on pavement.</p>\r\n\r\n<h4>Pros &amp; Cons</h4>\r\n\r\n<ul>\r\n\t<li>Roomy seating and cargo space</li>\r\n\t<li>Great off-road capability</li>\r\n\t<li>Refined powertrain</li>\r\n</ul>",
+        "car_photo": "photos/21/05/15/1893633875.jpg",
+        "car_photo_1": "photos/21/05/15/1893633879.jpg",
+        "car_photo_2": "photos/21/05/15/1893633884.jpg",
+        "car_photo_3": "photos/21/05/15/1896836883.jpg",
+        "car_photo_4": "photos/21/05/15/1896836887.jpg",
+        "features": "Cruise Control,Airbags,Alarm System,Power Steering",
+        "body_style": "SUV",
+        "engine": "87381V",
+        "transmission": "Manual",
+        "interior": "Grey",
+        "miles": 5000,
+        "door": "4",
+        "passengers": 8,
+        "vin_no": "LKJJSHDASHDSD",
+        "milage": 15,
+        "fuel_type": "Diesel",
+        "no_of_owner": "2",
+        "is_featured": true,
+        "created_date": "2021-05-15T18:37:33Z"
+    }
+},
+{
+    "model": "cars.car",
+    "pk": 4,
+    "fields": {
+        "car_title": "2017 Jaguar F-PACE",
+        "state": "PB",
+        "city": "Chandigarh",
+        "color": "Blue",
+        "model": "2017 F-PACE",
+        "year": 2017,
+        "condition": "Used",
+        "price": 3700000,
+        "description": "<p>The&nbsp;<strong>Jaguar F-Pace</strong>&nbsp;(X761) is a compact SUV made by&nbsp;<a href=\"https://en.wikipedia.org/wiki/Jaguar_Land_Rover\" title=\"Jaguar Land Rover\">Jaguar Land Rover</a>, a British&nbsp;<a href=\"https://en.wikipedia.org/wiki/Automaker\" title=\"Automaker\">car manufacturer</a>, under their&nbsp;<a href=\"https://en.wikipedia.org/wiki/Jaguar_Cars\" title=\"\">Jaguar marque</a>. It is the first model to be built by Jaguar in the SUV class. It was formally announced at the&nbsp;<a href=\"https://en.wikipedia.org/wiki/North_American_International_Auto_Show#2015\" title=\"North American International Auto Show\">2015 North American International Auto Show</a>&nbsp;in Detroit, with sales commencing in 2016 following an unveiling at the&nbsp;<a href=\"https://en.wikipedia.org/wiki/International_Motor_Show_Germany#2015\" title=\"International Motor Show Germany\">International Motor Show Germany</a>&nbsp;in Frankfurt in September 2015.<a href=\"https://en.wikipedia.org/wiki/Jaguar_F-Pace#cite_note-4\">[4]</a>&nbsp;The design of the F-Pace is based on the 2013&nbsp;<a href=\"https://en.wikipedia.org/wiki/Jaguar_C-X17\" title=\"Jaguar C-X17\">Jaguar C-X17</a>&nbsp;concept car.<a href=\"https://en.wikipedia.org/wiki/Jaguar_F-Pace#cite_note-BBC_News_120115-5\">[5]</a>&nbsp;The 2017 Jaguar F-PACE has been named the honorary winner of the 2017 World Car of the Year and World Car Design of the Year Awards at the&nbsp;<a href=\"https://en.wikipedia.org/wiki/New_York_International_Auto_Show\" title=\"New York International Auto Show\">New York International Auto Show</a>.<a href=\"https://en.wikipedia.org/wiki/Jaguar_F-Pace#cite_note-6\">[6]</a></p>",
+        "car_photo": "photos/21/05/15/1902932503.jpg",
+        "car_photo_1": "photos/21/05/15/1902932514.jpg",
+        "car_photo_2": "photos/21/05/15/1902932528.jpg",
+        "car_photo_3": "photos/21/05/15/1902932542.jpg",
+        "car_photo_4": "photos/21/05/16/photo4.jpg",
+        "features": "Cruise Control,Air Conditioning,Seat Heating,Alarm System,Direct Fuel Injection,Auto Start/Stop",
+        "body_style": "Luxury",
+        "engine": "8787bsa",
+        "transmission": "Automatic",
+        "interior": "Silver",
+        "miles": 1545,
+        "door": "4",
+        "passengers": 5,
+        "vin_no": "SSKJFDHKDSJ",
+        "milage": 12,
+        "fuel_type": "Diesel",
+        "no_of_owner": "1",
+        "is_featured": true,
+        "created_date": "2021-05-15T18:40:34Z"
+    }
+},
+{
+    "model": "cars.car",
+    "pk": 5,
+    "fields": {
+        "car_title": "2020 Mercedes Benz A-Class",
+        "state": "TS",
+        "city": "Hyderabad",
+        "color": "White",
+        "model": "A 200d",
+        "year": 2020,
+        "condition": "Used",
+        "price": 2500000,
+        "description": "<h2>Mercedes-Benz A-Class Limousine Price</h2>\r\n\r\n<p>The price of Mercedes-Benz A-Class Limousine starts at Rs. 39.90 Lakh and goes upto Rs. 56.24 Lakh. Mercedes-Benz A-Class Limousine is offered in 3 variants - the base model of A-Class Limousine is A 200 and the top variant Mercedes-Benz A-Class Limousine A 35 4MATIC which comes at a price tag of Rs. 56.24 Lakh.</p>",
+        "car_photo": "photos/21/05/22/3.jpg",
+        "car_photo_1": "photos/21/05/22/1.jpg",
+        "car_photo_2": "photos/21/05/22/2.jpg",
+        "car_photo_3": "photos/21/05/22/4.jpg",
+        "car_photo_4": "photos/21/05/22/5.jpg",
+        "features": "Cruise Control,Airbags,Air Conditioning,ParkAssist,Power Steering,Reversing Camera,Auto Start/Stop,Wind Deflector,Bluetooth Handset",
+        "body_style": "Sedan",
+        "engine": "1998 cc",
+        "transmission": "Automatic",
+        "interior": "Grey",
+        "miles": 577,
+        "door": "4",
+        "passengers": 4,
+        "vin_no": "MBAJSASJSJMDJ",
+        "milage": 10,
+        "fuel_type": "Diesel",
+        "no_of_owner": "1",
+        "is_featured": true,
+        "created_date": "2021-05-22T12:37:59Z"
+    }
+},
+{
+    "model": "cars.car",
+    "pk": 6,
+    "fields": {
+        "car_title": "2019 Audi Q2",
+        "state": "MH",
+        "city": "Mumbai",
+        "color": "Blue",
+        "model": "2019 Base Model",
+        "year": 2019,
+        "condition": "New",
+        "price": 4000000,
+        "description": "<h2>Audi Q2</h2>\r\n\r\n<p>Audi has unveiled their smallest SUV yet at the Geneva Motor Show. Built on Volkswagen&rsquo;s MQB platform, the Q2 will sit under the Q3 in the German manufacturer&rsquo;s SUV portfolio. The compact SUV has been built with an intent to make luxury SUVs more approachable for buyers.</p>\r\n\r\n<h2>Audi Q2 Price</h2>\r\n\r\n<p>The price of Audi Q2 starts at Rs. 34.99 Lakh and goes upto Rs. 48.89 Lakh. Audi Q2 is offered in 6 variants - the base model of Q2 is Standard and the top variant Audi Q2 Technology which comes at a price tag of Rs. 48.89 Lakh.</p>",
+        "car_photo": "photos/21/05/22/1_M4RHWOJ.jpg",
+        "car_photo_1": "photos/21/05/22/2_0yCEdun.jpg",
+        "car_photo_2": "photos/21/05/22/3_5x3JeOm.jpg",
+        "car_photo_3": "photos/21/05/22/4_0vEGU03.jpg",
+        "car_photo_4": "photos/21/05/22/5_7PY1yaz.jpg",
+        "features": "Cruise Control,Audio Interface,Air Conditioning,Seat Heating,ParkAssist,Power Steering,Reversing Camera,Auto Start/Stop,Bluetooth Handset",
+        "body_style": "Sports",
+        "engine": "1984cc",
+        "transmission": "Automatic",
+        "interior": "White",
+        "miles": 0,
+        "door": "4",
+        "passengers": 5,
+        "vin_no": "AUDIIUAHSJDSB",
+        "milage": 15,
+        "fuel_type": "Diesel",
+        "no_of_owner": "1",
+        "is_featured": true,
+        "created_date": "2021-05-22T12:58:03Z"
+    }
+},
+{
+    "model": "contacts.contact",
+    "pk": 1,
+    "fields": {
+        "first_name": "dilwar",
+        "last_name": "bisht",
+        "car_id": 3,
+        "customer_need": "I'm interested in this",
+        "car_title": "2018 Toyota 4Runner",
+        "city": "delhi",
+        "state": "Delhi",
+        "email": "dilwar@gmail.com",
+        "message": "adsad",
+        "user_id": 1,
+        "create_date": "2021-05-22T10:25:26.397Z"
+    }
+},
+{
+    "model": "contacts.contact",
+    "pk": 2,
+    "fields": {
+        "first_name": "dilwar",
+        "last_name": "bisht",
+        "car_id": 3,
+        "customer_need": "I'm interested in this",
+        "car_title": "2018 Toyota 4Runner",
+        "city": "delhi",
+        "state": "Delhi",
+        "email": "dilwar@gmail.com",
+        "message": "adsad",
+        "user_id": 1,
+        "create_date": "2021-05-22T10:26:49.976Z"
+    }
+},
+{
+    "model": "contacts.contact",
+    "pk": 3,
+    "fields": {
+        "first_name": "jay",
+        "last_name": "prakash",
+        "car_id": 3,
+        "customer_need": "I'm interested in this",
+        "car_title": "2018 Toyota 4Runner",
+        "city": "Gurgaon",
+        "state": "Haryana",
+        "email": "jp@gmail.cpm",
+        "message": "intersted",
+        "user_id": 6,
+        "create_date": "2021-05-22T11:34:57.864Z"
+    }
+},
+{
+    "model": "sites.site",
+    "fields": {
+        "domain": "localhost:8000",
+        "name": "localhost:8000"
+    }
+},
+{
+    "model": "socialaccount.socialapp",
+    "pk": 1,
+    "fields": {
+        "provider": "facebook",
+        "name": "Facebook logon",
+        "client_id": "323176852539647",
+        "secret": "29850bc6076d2709cae91ce8d5b49df1",
+        "key": "",
+        "sites": [
+            [
+                "localhost:8000"
+            ]
+        ]
+    }
+},
+{
+    "model": "socialaccount.socialapp",
+    "pk": 2,
+    "fields": {
+        "provider": "google",
+        "name": "Google Login",
+        "client_id": "472795703987-ohf58a3riideuvqnmcos7lufr8spmf0u.apps.googleusercontent.com",
+        "secret": "F8VW9-c-YKvAhAXU43Ls0h0T",
+        "key": "",
+        "sites": [
+            [
+                "localhost:8000"
+            ]
+        ]
+    }
+},
+{
+    "model": "socialaccount.socialaccount",
+    "pk": 1,
+    "fields": {
+        "user": [
+            "pankaj"
+        ],
+        "provider": "facebook",
+        "uid": "3516023695163831",
+        "last_login": "2021-05-21T18:05:08.602Z",
+        "date_joined": "2021-05-21T18:04:47.400Z",
+        "extra_data": "{\"id\": \"3516023695163831\", \"name\": \"Pankaj Bisht\", \"first_name\": \"Pankaj\", \"last_name\": \"Bisht\"}"
+    }
+},
+{
+    "model": "socialaccount.socialaccount",
+    "pk": 2,
+    "fields": {
+        "user": [
+            "pankaj6"
+        ],
+        "provider": "google",
+        "uid": "118247448913922867776",
+        "last_login": "2021-05-21T18:26:46.053Z",
+        "date_joined": "2021-05-21T18:26:46.053Z",
+        "extra_data": "{\"id\": \"118247448913922867776\", \"name\": \"Pankaj bisht\", \"given_name\": \"Pankaj\", \"family_name\": \"bisht\", \"picture\": \"https://lh3.googleusercontent.com/a-/AOh14GhrbHEH3a-mopHkCdcsOorcN_js-kwK7z8OZJor-w=s96-c\", \"locale\": \"en\"}"
+    }
+},
+{
+    "model": "socialaccount.socialtoken",
+    "pk": 1,
+    "fields": {
+        "app": 1,
+        "account": 1,
+        "token": "EAAEl7XlZByP8BACopqh1UZA5oNCSI337cK3SHCZBVt4GF1pYeMG2thBPl8Q8bIYB2vjmJOvLfoLXTW1ridkGn0qVO0ayKP5TVNFQZCEsSfYWi27e5qXtDENHcZASIvGvuu6XZAIgJfnHwSRTDHCNNz5jmEHS0yvC9hZBsVtWZAJurwZDZD",
+        "token_secret": "",
+        "expires_at": "2021-07-20T18:04:43.942Z"
+    }
+},
+{
+    "model": "socialaccount.socialtoken",
+    "pk": 2,
+    "fields": {
+        "app": 2,
+        "account": 2,
+        "token": "ya29.a0AfH6SMDPZ86DrAXjEq3QyBAvi4Tzlb1dS-YrM7pzBOEGYQ1MQGsQp0K_OzjoszKpz0bv0SHytz_VURH-yjW3SDc__8rYIs0GcvIJU2qudMIpX8VlS3LhNZAT3GMqh8UWpVbJYP0wSiOo9Hf4S-rGBRsO0VjG",
+        "token_secret": "",
+        "expires_at": "2021-05-21T19:26:44.359Z"
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 1,
+    "fields": {
+        "action_time": "2021-05-14T13:55:54.857Z",
+        "user": [
+            "djangoadmin"
+        ],
+        "content_type": [
+            "Pages",
+            "team"
+        ],
+        "object_id": "1",
+        "object_repr": "Team object (1)",
+        "action_flag": 1,
+        "change_message": "[{\"added\": {}}]"
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 2,
+    "fields": {
+        "action_time": "2021-05-14T15:08:24.778Z",
+        "user": [
+            "djangoadmin"
+        ],
+        "content_type": [
+            "Pages",
+            "team"
+        ],
+        "object_id": "2",
+        "object_repr": "Team object (2)",
+        "action_flag": 1,
+        "change_message": "[{\"added\": {}}]"
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 3,
+    "fields": {
+        "action_time": "2021-05-14T15:09:02.616Z",
+        "user": [
+            "djangoadmin"
+        ],
+        "content_type": [
+            "Pages",
+            "team"
+        ],
+        "object_id": "1",
+        "object_repr": "Team object (1)",
+        "action_flag": 2,
+        "change_message": "[{\"changed\": {\"fields\": [\"First name\", \"Last name\", \"Designation\", \"Photo\"]}}]"
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 4,
+    "fields": {
+        "action_time": "2021-05-14T15:09:35.266Z",
+        "user": [
+            "djangoadmin"
+        ],
+        "content_type": [
+            "Pages",
+            "team"
+        ],
+        "object_id": "3",
+        "object_repr": "Team object (3)",
+        "action_flag": 1,
+        "change_message": "[{\"added\": {}}]"
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 5,
+    "fields": {
+        "action_time": "2021-05-14T15:10:05.243Z",
+        "user": [
+            "djangoadmin"
+        ],
+        "content_type": [
+            "Pages",
+            "team"
+        ],
+        "object_id": "4",
+        "object_repr": "Team object (4)",
+        "action_flag": 1,
+        "change_message": "[{\"added\": {}}]"
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 6,
+    "fields": {
+        "action_time": "2021-05-15T12:43:05.832Z",
+        "user": [
+            "djangoadmin"
+        ],
+        "content_type": [
+            "cars",
+            "car"
+        ],
+        "object_id": "1",
+        "object_repr": "car object (1)",
+        "action_flag": 1,
+        "change_message": "[{\"added\": {}}]"
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 7,
+    "fields": {
+        "action_time": "2021-05-15T13:03:24.741Z",
+        "user": [
+            "djangoadmin"
+        ],
+        "content_type": [
+            "cars",
+            "car"
+        ],
+        "object_id": "1",
+        "object_repr": "car object (1)",
+        "action_flag": 2,
+        "change_message": "[{\"changed\": {\"fields\": [\"State\", \"City\"]}}]"
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 8,
+    "fields": {
+        "action_time": "2021-05-15T13:07:32.333Z",
+        "user": [
+            "djangoadmin"
+        ],
+        "content_type": [
+            "cars",
+            "car"
+        ],
+        "object_id": "2",
+        "object_repr": "car object (2)",
+        "action_flag": 1,
+        "change_message": "[{\"added\": {}}]"
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 9,
+    "fields": {
+        "action_time": "2021-05-15T13:10:34.292Z",
+        "user": [
+            "djangoadmin"
+        ],
+        "content_type": [
+            "cars",
+            "car"
+        ],
+        "object_id": "3",
+        "object_repr": "car object (3)",
+        "action_flag": 1,
+        "change_message": "[{\"added\": {}}]"
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 10,
+    "fields": {
+        "action_time": "2021-05-15T13:13:05.907Z",
+        "user": [
+            "djangoadmin"
+        ],
+        "content_type": [
+            "cars",
+            "car"
+        ],
+        "object_id": "4",
+        "object_repr": "car object (4)",
+        "action_flag": 1,
+        "change_message": "[{\"added\": {}}]"
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 11,
+    "fields": {
+        "action_time": "2021-05-16T13:53:49.357Z",
+        "user": [
+            "djangoadmin"
+        ],
+        "content_type": [
+            "cars",
+            "car"
+        ],
+        "object_id": "4",
+        "object_repr": "2017 Jaguar F-PACE",
+        "action_flag": 2,
+        "change_message": "[{\"changed\": {\"fields\": [\"Car photo 4\"]}}]"
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 12,
+    "fields": {
+        "action_time": "2021-05-21T17:55:24.560Z",
+        "user": [
+            "djangoadmin"
+        ],
+        "content_type": [
+            "socialaccount",
+            "socialapp"
+        ],
+        "object_id": "1",
+        "object_repr": "Facebook logon",
+        "action_flag": 1,
+        "change_message": "[{\"added\": {}}]"
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 13,
+    "fields": {
+        "action_time": "2021-05-21T17:56:40.404Z",
+        "user": [
+            "djangoadmin"
+        ],
+        "content_type": [
+            "sites",
+            "site"
+        ],
+        "object_id": "1",
+        "object_repr": "localhost:8080",
+        "action_flag": 2,
+        "change_message": "[{\"changed\": {\"fields\": [\"Domain name\", \"Display name\"]}}]"
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 14,
+    "fields": {
+        "action_time": "2021-05-21T17:57:27.735Z",
+        "user": [
+            "djangoadmin"
+        ],
+        "content_type": [
+            "sites",
+            "site"
+        ],
+        "object_id": "1",
+        "object_repr": "localhost:8000",
+        "action_flag": 2,
+        "change_message": "[{\"changed\": {\"fields\": [\"Domain name\", \"Display name\"]}}]"
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 15,
+    "fields": {
+        "action_time": "2021-05-21T18:22:05.865Z",
+        "user": [
+            "djangoadmin"
+        ],
+        "content_type": [
+            "socialaccount",
+            "socialapp"
+        ],
+        "object_id": "2",
+        "object_repr": "Google Login",
+        "action_flag": 1,
+        "change_message": "[{\"added\": {}}]"
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 16,
+    "fields": {
+        "action_time": "2021-05-22T07:26:57.697Z",
+        "user": [
+            "djangoadmin"
+        ],
+        "content_type": [
+            "cars",
+            "car"
+        ],
+        "object_id": "5",
+        "object_repr": "2020 Mercedes Benz A-Class",
+        "action_flag": 1,
+        "change_message": "[{\"added\": {}}]"
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 17,
+    "fields": {
+        "action_time": "2021-05-22T07:36:30.554Z",
+        "user": [
+            "djangoadmin"
+        ],
+        "content_type": [
+            "cars",
+            "car"
+        ],
+        "object_id": "6",
+        "object_repr": "2019 Audi Q2",
+        "action_flag": 1,
+        "change_message": "[{\"added\": {}}]"
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 18,
+    "fields": {
+        "action_time": "2021-05-22T07:37:34.732Z",
+        "user": [
+            "djangoadmin"
+        ],
+        "content_type": [
+            "cars",
+            "car"
+        ],
+        "object_id": "3",
+        "object_repr": "2018 Toyota 4Runner",
+        "action_flag": 2,
+        "change_message": "[{\"changed\": {\"fields\": [\"Price\"]}}]"
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 19,
+    "fields": {
+        "action_time": "2021-05-22T07:38:05.259Z",
+        "user": [
+            "djangoadmin"
+        ],
+        "content_type": [
+            "cars",
+            "car"
+        ],
+        "object_id": "4",
+        "object_repr": "2017 Jaguar F-PACE",
+        "action_flag": 2,
+        "change_message": "[{\"changed\": {\"fields\": [\"Price\"]}}]"
+    }
+}
+]

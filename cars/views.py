@@ -78,3 +78,5 @@ def search(request):
         'transmission_search':transmission_search,
     }
     return render(request,'cars/search.html',data)
+
+    
